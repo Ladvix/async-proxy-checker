@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Proxy Checker
+  # Async Proxy Checker
   
   <p>
     <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
