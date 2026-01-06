@@ -9,35 +9,32 @@
 
 </div>
 
-## 📌 О проекте
+## About
 
-Асинхронный Proxy Checker позволяет проверять работоспособность http/https прокси.
+Asynchronous Proxy Checker allows you to check the performance of http/https proxies.
 
-## 🔧 Установка
+## Installation
 
 ```bash
-# Клонирование репозитория
 git clone https://github.com/Ladvix/proxy-checker.git
 cd proxy-checker
 
-# Установка зависимостей
 pip install -r requirements.txt
 
-# Запуск Proxy Checker
 python main.py
 ```
 
-## 📚 Использование
+## Usage
 
-Отредактируйте файл proxies.txt.
-Пример:
+Edit the file proxies.txt .
+Example:
 ```
 192.168.1.1:8080
 210.0.115.6:80
 ```
 
-Теперь вы можете запустить Proxy Checker и увидеть результат проверки в консоли.
+Now you can run Proxy Checker and see the verification result in the console.
 
-## 📄 Лицензия
+## License
 
-Распространяется [под лицензией MIT](https://github.com/Ladvix/Chimera/blob/main/LICENSE).
+Distributed [under the MIT license](https://github.com/Ladvix/Chimera/blob/main/LICENSE).
